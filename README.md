@@ -10,4 +10,4 @@ To use it actually you need to have it open and then don;t refresh the page.
 * Bootstrap 3
 
 #### Implementation
-You can host this on any static web hosting platform such as Netlify or as a Github page.
+You can host this on any static web hosting platform such as Netlify or as a Github page. Also for running it locally just clone the repo and open the index.html file in your system's browser.
