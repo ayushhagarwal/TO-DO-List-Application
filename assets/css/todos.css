@@ -83,3 +83,7 @@ input:focus{
 	color: gray;
 	text-decoration: line-through;
 }
+.top-section
+{
+	text-align: center;
+}
