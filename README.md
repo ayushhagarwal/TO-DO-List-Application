@@ -1,4 +1,4 @@
-### TO-DO-List-Interface
+### TO-DO-List Front End Project
 This is a to-do list interface, which is a static webpage. It is not full stack application that is it does not have any backend server or any database.<br>
 However you can still add, delete and edit the to-do work but as soon as you refersh the page renders back the basic page where you started.
 <br>
